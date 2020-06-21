@@ -2,7 +2,8 @@
 - **Delete the instructions section after making changes to other texts**
 - **Make changes to `<text>` only**
     - *for example: change `<YOUR NAME>` to **BILL GATES***
-- **for image, you have to replace `<Link_to_your_image>` with the actual link to your image on internet it can be on Google Drive too**
+- **for image, you have to replace `<Link_to_your_image>` with the actual path to your image, it can be on Google Drive too**
+    - *You can put your image in a `image` folder and set your link as `./image/imageName.png`*
 - **You can add as much hobbies you want in `<Your Hobbies>`**
 - **You can write *About Me* as you want**
 
