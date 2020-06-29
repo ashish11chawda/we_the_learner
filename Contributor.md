@@ -15,7 +15,7 @@ git clone https://github.com/pixan198/we_the_learner.git
 
 > 3. Inside this folder create a `README.md` file
 >       - `.md` extension is for `Markdown` file.
->       - Copy text from `Template.md` file and paste it in your `README.md` file and then make changes as instructed.
+>       - Copy text from [Template.md](https://github.com/pixan198/we_the_learner/blob/master/Template.md) file and paste it in your `README.md` file and then make changes as instructed.
 
 > 4. Save and Commit your changes and it to your forked GitHub Repo.
 
